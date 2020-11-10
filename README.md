@@ -1,4 +1,4 @@
 # Youtube viewbot
-# uses selenium,pyautogui and tkinter
-# uses chromedriver
-enter url of video and select number of views.
+# uses selenium,pyautogui,ChromeDriver and tkinter
+Enter url of video and select number of views.
+Can change watch time in code
